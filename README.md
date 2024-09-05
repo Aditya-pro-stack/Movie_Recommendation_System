@@ -5,7 +5,6 @@ This project is a content-based movie recommendation system that suggests simila
 ## Table of Contents
 - [Introduction](#introduction)
 - [Dataset](#dataset)
-- [Project Structure](#project-structure)
 - [Libraries Used](#libraries-used)
 - [How the System Works](#how-the-system-works)
 - [Usage](#usage)
@@ -21,13 +20,6 @@ We use the TMDb 5000 Movie Dataset which consists of two CSV files:
 
 Both datasets are merged on the title field to form a unified data structure for recommendation.
 
-## Project Structure
-├── movie_recommendation_system.ipynb # Main Jupyter notebook with code
-├── tmdb_5000_movies.csv # Movie metadata dataset
-├── tmdb_5000_credits.csv # Cast and crew dataset
-├── similarity.pkl # Precomputed similarity matrix
-├── movie_list.pkl # Movie metadata and tags data
-├── README.md # Project documentation
 ## Libraries Used
 
 - **NumPy**: For numerical computations
