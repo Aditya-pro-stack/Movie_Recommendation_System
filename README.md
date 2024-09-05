@@ -9,10 +9,6 @@ This project is a content-based movie recommendation system that suggests simila
 - [Libraries Used](#libraries-used)
 - [How the System Works](#how-the-system-works)
 - [Usage](#usage)
-- [Model Explanation](#model-explanation)
-- [How to Run the Project](#how-to-run-the-project)
-- [Future Enhancements](#future-enhancements)
-
 ## Introduction
 
 The aim of this project is to build a simple and effective movie recommendation system. It takes a movie title as input and returns a list of similar movies by analyzing metadata features such as genres, plot descriptions, cast, crew, and keywords.
